@@ -1,3 +1,5 @@
+This is my solution to a homework assignment "CRUD in DRF".
+
 # Реализуем API онлайн-библиотеки
 
 ## Задание
